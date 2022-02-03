@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922124608629",
+    "firebase_url": "https://egitimveritabani-2b6fc-default-rtdb.firebaseio.com",
+    "project_id": "egitimveritabani-2b6fc",
+    "storage_bucket": "egitimveritabani-2b6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922124608629:android:0e7cfc8dc98a2030c7c43c",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922124608629-iq8b67v2tsbglfs3featfv0kudje620g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZBrWgPnoxYTOGjZlvtyO6K8tRr728ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922124608629-iq8b67v2tsbglfs3featfv0kudje620g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
